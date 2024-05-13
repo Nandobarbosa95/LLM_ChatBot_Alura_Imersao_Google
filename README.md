@@ -9,7 +9,9 @@
 **Atualização Constante:** A base de dados do Botchê é alimentada por web scraping, extraindo dados do site oficial do governo (https://sosenchentes.rs.gov.br), garantindo informações atualizadas sobre a situação das enchentes.
 
 🧰 **Tecnologias Utilizadas:**
-- **Python:** Linguagem de programação principal utilizada para desenvolver o Botchê. 
+- **Python:** Linguagem de programação principal utilizada para desenvolver o Botchê.
+
+- **BeatifulSoup:** Biblioteca para raspagem de dados (webscrapping), realizando a extração de informações dos sites oficiais para utilização dos modelos.
 
 - **Pandas:** Biblioteca para manipulação e análise de dados, utilizada para organizar as informações extraídas por web scraping. 
 
